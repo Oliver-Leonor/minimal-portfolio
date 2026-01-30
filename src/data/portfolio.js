@@ -7,7 +7,7 @@ export default [
   },
   {
     title: 'Puerto Princesa Guide',
-    imgUrl: '/assets/project5.jpg',
+    imgUrl: '/assets/project6.png',
     stack: ['TypeScript', 'shadcn/ui', 'Google Maps API', 'NextJS',],
     link: 'https://palawan-guide.vercel.app/',
   },
