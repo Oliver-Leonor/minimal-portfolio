@@ -6,15 +6,15 @@ export default [
     link: 'https://memory-game-e4ccb5tnf-oliver-leonor.vercel.app/',
   },
   {
-    title: 'E-Commerce App',
+    title: 'Puerto Princesa Guide',
     imgUrl: '/assets/project5.jpg',
-    stack: ['HTML', 'CSS', 'JavasScript', 'React', 'MongoDB'],
-    link: 'https://capstone3-umber.vercel.app/',
+    stack: ['TypeScript', 'shadcn/ui', 'Google Maps API', 'NextJS',],
+    link: 'https://palawan-guide.vercel.app/',
   },
   {
-    title: 'Finance Tracker App',
+    title: 'E-Wallet API',
     imgUrl: '/assets/Project3.jpg',
-    stack: ['HTML', 'CSS', 'JavasScript', 'React', 'Firebase'],
+    stack: ['TypeScript', 'API', 'CloudFlare'],
     link: 'https://wallet-ledger-api.oliver-leonor.workers.dev/ui',
   },
 ]
