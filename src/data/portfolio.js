@@ -13,8 +13,8 @@ export default [
   },
   {
     title: 'Finance Tracker App',
-    imgUrl: '/assets/project3.jpg',
+    imgUrl: '/assets/Project3.jpg',
     stack: ['HTML', 'CSS', 'JavasScript', 'React', 'Firebase'],
-    link: 'https://mymoney-68a02.web.app/',
+    link: 'https://wallet-ledger-api.oliver-leonor.workers.dev/ui',
   },
 ]
