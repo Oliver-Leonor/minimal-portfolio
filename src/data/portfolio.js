@@ -13,7 +13,7 @@ export default [
   },
   {
     title: 'E-Wallet API',
-    imgUrl: '/assets/Project3.jpg',
+    imgUrl: '/assets/project3.jpg',
     stack: ['TypeScript', 'API', 'CloudFlare'],
     link: 'https://wallet-ledger-api.oliver-leonor.workers.dev/ui',
   },
